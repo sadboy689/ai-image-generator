@@ -1,0 +1,8 @@
+{
+  "name": "AI Image Generator",
+  "description": "A premium, fully featured Text-to-Image generation application powered by Pollinations AI and Hugging Face, featuring advanced parameters, visual style templates, generation history, and an interactive gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
